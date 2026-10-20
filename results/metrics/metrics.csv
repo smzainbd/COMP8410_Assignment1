@@ -1,0 +1,5 @@
+Pair,Week,System,Model,Total_Params,Trainable_Params,Train_Time_s,Batch_Unit,Batch_Latency_ms,Batches_Per_Sec,Peak_VRAM_MB,Train_Split_MSE,Test_MSE,Perturbed_Test_MSE,Output_Drift_MSE,Gen_Gap_Abs,Class_MSE_Std,Aux_Metric_Name,Aux_Metric_Val,Est_Energy_mWh_1kBatches_Formula,Est_Cost_100kBatches_USD_Formula,Meets_Latency_Target
+Pair 1,W2,System 1,Prompt-to-Prompt (prototype),75201,75201,0.733,batch_64,6.513,153.5,631.27,0.01196,0.01218,0.02804,0.01894,0.00022,0.00215,Source_Cosine_Sim,0.80872,126.64,0.0633,True
+Pair 1,W2,System 2,StyleAligned (prototype),75201,75201,0.809,batch_64,4.17,239.8,680.33,0.01175,0.0119,0.02745,0.01887,0.00015,0.00214,Source_Cosine_Sim,0.8125,81.09,0.0405,True
+Pair 2,W3,System 1,Custom Diffusion (prototype),61761,5504,0.237,batch_64,1.75,571.6,370.53,0.01745,0.01771,0.03337,0.02694,0.00026,0.00309,Test_PSNR_dB,17.51781,34.02,0.017,True
+Pair 2,W3,System 2,DreamBooth (prototype),61761,61761,0.496,batch_64,3.747,266.9,375.13,0.01513,0.01533,0.03257,0.02833,0.0002,0.00252,Test_PSNR_dB,18.14458,72.86,0.0364,True

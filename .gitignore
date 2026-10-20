@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# OS junk
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Dataset (download on run via torchvision)
+data/FashionMNIST/
+
+# Optional local junk
+.ipynb_checkpoints/
+*.log

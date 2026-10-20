@@ -1,0 +1,5 @@
+{
+  "max_latency_ms": 10.0,
+  "gpu_tdp_watts": 70.0,
+  "cloud_gpu_hour_usd": 0.35
+}

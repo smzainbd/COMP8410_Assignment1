@@ -5,5 +5,5 @@ Pair 2,W3,System 1,Custom Diffusion (prototype),61761,5504,0.278,batch_64,1.741,
 Pair 2,W3,System 2,DreamBooth (prototype),61761,61761,0.485,batch_64,3.65,274.0,375.14,0.01513,0.01533,0.03257,0.02833,0.0002,0.00252,Test_PSNR_dB,18.14458,70.97,0.0355,False
 Pair 3,W4,System 1,3D Gaussian Splatting (prototype),2304,2304,0.421,1_image_48x48,0.794,1259.8,79.77,0.00066,0.05348,0.0531,0.00048,0.05282,,FG_Sphere_MSE,0.06842,15.43,0.0077,True
 Pair 3,W4,System 2,NeRF (Mini-NeRF prototype),22148,22148,0.357,1_image_48x48,1.1,909.2,105.31,0.00027,0.04817,0.0474,0.00101,0.0479,,FG_Sphere_MSE,0.05759,21.39,0.0107,True
-Pair 4,W5,System 1,DreamFields (prototype),4210,4210,0.219,1_view_28x28,1.028,972.6,72.46,0.0028,0.00235,0.00264,0.00122,0.00045,,HeldOut_Prior_CosSim,0.97428,19.99,0.01,True
-Pair 4,W5,System 2,DreamFusion (SDS prototype),6114,6114,0.209,1_view_28x28,1.153,867.2,80.88,0.00506,0.00375,0.00608,0.00092,0.00131,,HeldOut_Prior_CosSim,0.96399,22.42,0.0112,True
+Pair 4,W5,System 1,DreamFields (prototype),3794,3794,0.172,1_view_28x28,1.023,977.8,35.42,0.0358,0.03192,0.03171,0.00072,0.00388,,HeldOut_Prior_CosSim,0.98638,19.89,0.0099,True
+Pair 4,W5,System 2,DreamFusion (SDS prototype),6082,6082,0.203,1_view_28x28,1.008,992.5,42.87,0.00245,0.00187,0.00201,0.00013,0.00058,,HeldOut_Prior_CosSim,0.99787,19.59,0.0098,True

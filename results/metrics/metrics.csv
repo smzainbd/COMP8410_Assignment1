@@ -7,3 +7,5 @@ Pair 3,W4,System 1,3D Gaussian Splatting (prototype),2304,2304,0.421,1_image_48x
 Pair 3,W4,System 2,NeRF (Mini-NeRF prototype),22148,22148,0.357,1_image_48x48,1.1,909.2,105.31,0.00027,0.04817,0.0474,0.00101,0.0479,,FG_Sphere_MSE,0.05759,21.39,0.0107,True
 Pair 4,W5,System 1,DreamFields (prototype),3794,3794,0.172,1_view_28x28,1.023,977.8,35.42,0.0358,0.03192,0.03171,0.00072,0.00388,,HeldOut_Prior_CosSim,0.98638,19.89,0.0099,True
 Pair 4,W5,System 2,DreamFusion (SDS prototype),6082,6082,0.203,1_view_28x28,1.008,992.5,42.87,0.00245,0.00187,0.00201,0.00013,0.00058,,HeldOut_Prior_CosSim,0.99787,19.59,0.0098,True
+Pair 5,W6,System 1,Text2Video-Zero (prototype),35137,0,0.0,16_clips_8f,8.173,122.3,35.97,0.01307,0.01348,0.01882,0.01046,0.00041,0.00589,Temporal_CosSim,0.89942,158.93,0.0795,False
+Pair 5,W6,System 2,AnimateDiff (prototype),35137,5600,0.288,16_clips_8f,7.015,142.5,140.72,0.01155,0.01194,0.018,0.01211,0.00039,0.0058,Temporal_CosSim,0.90187,136.41,0.0682,False

@@ -9,8 +9,12 @@
 - `src/w3_personalization.py` — Pair 2 (Week 3): Custom Diffusion vs. DreamBooth prototypes
 - `src/w4_recon3d.py` — Pair 3 (Week 4): 3D Gaussian Splatting vs. NeRF prototypes
 - `src/w5_text3d.py` — Pair 4 (Week 5): DreamFields vs. DreamFusion prototypes
-- `src/w6_video_gen.py` — Pair 5 (Week 6): AnimateDiff vs. Per-Frame Diffusion prototypes
-- `src/w7_video_edit.py` — Pair 6 (Week 7): Tune-A-Video vs. AnimateDiff prototypes
-- `src/w8_agents.py` — Pair 7 (Week 8): ReAct Agent vs. Direct Answer prototypes
+- `src/w6_video_gen.py` — Pair 5 (Week 6): Text2Video-Zero vs. AnimateDiff prototypes
+- `src/w7_video_edit.py` — Pair 6 (Week 7): TokenFlow vs. Tune-A-Video prototypes
+- `src/w8_agents.py` — Pair 7 (Week 8): Verifiable Policy Agent vs. Code-Actuation Agent prototypes
 - `60801131_Evaluation_Notebook.ipynb` — Main execution notebook
 - `results/metrics/metrics.csv` & `results/figures/` — Generated metrics and plots
+
+## Replication Instructions
+1. `pip install -r requirements.txt`
+2. Open `60801131_Evaluation_Notebook.ipynb` and click **Run All**.

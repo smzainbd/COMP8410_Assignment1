@@ -1,7 +1,7 @@
 # COMP8410 Assignment 1: AI Systems Evaluation (60801131)
 
 - Student Name: S M Zain
-- Student ID: 60801131
+- Student ID: 608011xx
 - Repository: https://github.com/smzainbd/COMP8410_Assignment1
 
 ## Overview and Use Case
